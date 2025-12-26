@@ -25,11 +25,14 @@ Escribe estos 3 comandos en tu terminal:
 ```bash
 # 1. Actualizar y descargar requisitos
 pkg update && pkg install git python -y
+pip install requests
 
 # 2. Clonar la herramienta
 git clone https://github.com/bruceX-T/TITAN-OMNI..git
 
-# 3. Entrar y ejecutar
+# 3. Entrar a la carpeta
 cd TITAN-OMNI.
+
+# 4. Ejecutar la herramienta
 python titan_scanner.py
 
