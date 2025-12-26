@@ -27,7 +27,7 @@ Escribe estos 3 comandos en tu terminal:
 pkg update && pkg install git python -y
 
 # 2. Clonar la herramienta
-git clone [https://github.com/bruceX-T/TITAN-OMNI.git](https://github.com/bruceX-T/TITAN-OMNI.git)
+git clone [https://github.com/bruceX-T/TITAN-OMNI..git](https://github.com/bruceX-T/TITAN-OMNI..git)
 
 # 3. Entrar y ejecutar
 cd TITAN-OMNI
